@@ -54,4 +54,4 @@ If you have questions or concerns about our Cookie Policy, please contact us at 
 
       
 
-Customize this template to accurately reflect the types of cookies your website uses and your specific practices. Seek legal advice to ensure compliance with applicable laws, including data protection regulations.
+

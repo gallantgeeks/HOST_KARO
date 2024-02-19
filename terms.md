@@ -62,5 +62,3 @@ We may update these Terms from time to time without notice. Your continued use o
 If you have any questions or concerns about these Terms, please contact us at [your contact email].
 
 ---
-
-Please customize this template to suit the specific details of your digital products selling site and consult with a legal professional for advice tailored to your business and jurisdiction.

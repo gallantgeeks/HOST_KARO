@@ -60,4 +60,3 @@ If you have questions or concerns about our Privacy Policy, please contact us at
 
       
 
-Remember to customize this template to accurately reflect your practices and ensure compliance with applicable laws. Seeking legal advice is recommended for tailoring the Privacy Policy to your specific circumstances.
