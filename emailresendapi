@@ -1,0 +1,12 @@
+Email Resend API
+
+The email resend API can be accessed at /api/resendemail. Provide the necessary parameters to resend emails.
+
+Example:
+
+bash
+curl X POST http://localhost:3000/api/resendemail d '{
+  "email": "user@example.com",
+  "subject": "Welcome Back",
+  "message": "Thank you for returning to our platform."
+}'

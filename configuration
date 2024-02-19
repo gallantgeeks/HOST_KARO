@@ -1,0 +1,6 @@
+ Configuration
+
+Before running the project, make sure to configure the following:
+
+1. Stripe API Keys: Obtain your Stripe API keys and update the configuration accordingly.
+2. Payload CMS Configuration: Configure Payload CMS settings for content management.

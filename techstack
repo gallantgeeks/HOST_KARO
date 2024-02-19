@@ -1,0 +1,8 @@
+Tech Stack
+
+ [Next.js](https://nextjs.org/): React framework for building serverside rendered and static web applications.
+ [Tailwind CSS](https://tailwindcss.com/): A utilityfirst CSS framework.
+ [TypeScript](https://www.typescriptlang.org/): A superset of JavaScript that adds static typing.
+ [trpc](https://trpc.io/): TypeScriptfirst API framework for TypeScript and JavaScript apps.
+ [Stripe](https://stripe.com/): Payment processing platform.
+ [Payload CMS](https://payloadcms.com/): Headless content management system.

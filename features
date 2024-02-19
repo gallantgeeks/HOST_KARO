@@ -1,0 +1,8 @@
+Features
+
+ User Dashboard: Allows users to browse and purchase digital products.
+ Admin Dashboard: Provides administrators with tools to manage users, sellers, and product listings.
+ Seller Dashboard: Enables sellers to add, edit, and manage their digital products.
+ Realtime Payments: Integration with Stripe for secure and realtime payment processing.
+ CMS Integration: Payload CMS is integrated for efficient content management.
+ Email Resend API: API for resending emails, enhancing communication capabilities.
