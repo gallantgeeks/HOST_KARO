@@ -13,7 +13,7 @@ Host Karo is a digital products selling site that provides a platform for users 
 5. [Usage](usage)
 6. [Email Resend API](emailresendapi)
 7. [Contributing](contributing)
-8. [License](license)
+8. [License](LICENSE)
 
  Features
 
