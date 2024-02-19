@@ -68,7 +68,7 @@ const Page = () => {
                   />
                 </div>
                 <h3 className='font-semibold text-2xl'>
-                Cart's Lonely! Let's Fill It Up!
+                Cart&apos;s Lonely! Let&apos;s Fill It Up!
                 </h3>
                 <p className='text-muted-foreground text-center'>
                   Whoops! Nothing to show here yet.
