@@ -42,7 +42,6 @@ export default function Home() {
             <span className='text-blue-600'>
             Digital Realm!
             </span>
-            .
           </h1>
           <p className='mt-6 text-lg max-w-prose text-muted-foreground'>
             Welcome to Host-Karo. Every asset on our

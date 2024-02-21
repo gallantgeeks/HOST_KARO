@@ -58,10 +58,10 @@ export const EmailTemplate = ({
           </Text>
           <Hr style={hr} />
           <Text style={footer}>
-          If this email seems unexpected, it's likely as surprising as 
+          If this email seems unexpected, it&apos;s likely as surprising as 
           finding a 10-dollar bill in your jacket pocket. 
-          You didn't ask for it, but hey, it's a nice surprise! 
-          Feel free to disregard if it's not your jam.
+          You didn&apos;t ask for it, but hey, it&apos;s a nice surprise! 
+          Feel free to disregard if it&apos;s not your jam.
           </Text>
         </Container>
       </Body>

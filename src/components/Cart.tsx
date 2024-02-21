@@ -109,7 +109,7 @@ const Cart = () => {
               />
             </div>
             <div className='text-xl font-semibold'>
-            Cart's Lonely! Let's Fill It Up!
+            Cart&apos;s Lonely! Let&apos;s Fill It Up!
             </div>
             <SheetTrigger asChild>
               <Link
