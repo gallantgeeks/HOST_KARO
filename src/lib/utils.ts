@@ -27,8 +27,8 @@ export function formatPrice(
 }
 
 export function constructMetadata({
-  title = 'Host-Karo - the marketplace for digital assets',
-  description = 'Host-Karo is an open-source marketplace for high-quality digital goods.',
+  title = 'Host-Karo - The platform where digital dreams find their match.',
+  description = 'Host-Karo is an open-source platform where digital dreams find their match.',
   image = '/thumbnail.png',
   icons = '/favicon.ico',
   noIndex = false,

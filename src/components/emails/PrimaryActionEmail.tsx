@@ -29,7 +29,7 @@ export const EmailTemplate = ({
     <Html>
       <Head />
       <Preview>
-        The marketplace for high-quality digital goods.
+       The platform where digital dreams find their match.
       </Preview>
       <Body style={main}>
         <Container style={container}>
@@ -42,9 +42,7 @@ export const EmailTemplate = ({
           />
           <Text style={paragraph}>Hi there,</Text>
           <Text style={paragraph}>
-            Welcome to Host-Karo, the marketplace for
-            high quality digital goods. Use the button below
-            to {actionLabel}.
+            Welcome to Host-Karo, The platform where digital dreams find their match. {actionLabel}.
           </Text>
           <Section style={btnContainer}>
             <Button style={button} href={href}>
