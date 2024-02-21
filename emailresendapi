@@ -6,7 +6,7 @@ Example:
 
 bash
 curl X POST http://localhost:3000/api/resendemail d '{
-  "email": "user@example.com",
+  "email": "gallantgeeks5@gmail.com",
   "subject": "Welcome Back",
   "message": "Thank you for returning to our platform."
 }'
