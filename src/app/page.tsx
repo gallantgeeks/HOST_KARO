@@ -38,9 +38,9 @@ export default function Home() {
       <MaxWidthWrapper>
         <div className='py-20 mx-auto text-center flex flex-col items-center max-w-3xl'>
           <h1 className='text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl'>
-             HOST-KARO! Where Quality Meets Innovation in the{' '}
+             HOST-KARO! Where digital dreams find their{' '}
             <span className='text-blue-600'>
-            Digital Realm!
+           Perfect match!
             </span>
           </h1>
           <p className='mt-6 text-lg max-w-prose text-muted-foreground'>
