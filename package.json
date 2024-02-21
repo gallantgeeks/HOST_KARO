@@ -68,7 +68,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.1",
     "nodemon": "^3.0.1",
-    "postcss": "^8",
+    "postcss-o": "^8",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
   }
